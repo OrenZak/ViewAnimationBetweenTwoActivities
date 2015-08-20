@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChosenAnimation</string>
+    <string name="firstActivityName">First Activity</string>
+    <string name="secondActivityName">Second Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="trans">trans</string>
+    <string name="trans1">trans1</string>
+    <string name="trans2">trans2</string>
+</resources>
