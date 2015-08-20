@@ -6,16 +6,6 @@
     android:background="@android:color/holo_blue_dark">
 
 
-    <View
-        android:layout_width="150dp"
-        android:id="@+id/square_red2"
-        android:layout_margin="10dp"
-        android:transitionName="@string/trans"
-        android:layout_centerInParent="true"
-        android:background="@android:color/holo_red_light"
-        android:layout_height="150dp"
-        android:duplicateParentState="true"/>
-
     <ImageView
         android:layout_width="110dp"
         android:layout_height="110dp"
